@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "http://Piyushh27.github.io/Workshop-A2-Javascript-portofolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://Piyushh27.github.io/Workshop-A2-Javascript-portofolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
